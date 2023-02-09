@@ -2,8 +2,8 @@
    "name": "Very fast factories",
    "displayName": "very fast factories",
    "author": "Talddec#0001",
-   "description": "makes factories produce very fast, some take less items to produce and some give more items from crafting,
+   "description": "makes factories produce very fast, some take less items to produce and some give more items from crafting"
    "version": "1.2",
-   "minGameVersion": "126",
+   "minGameVersion": "136",
    "hidden": "false"
 }
